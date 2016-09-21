@@ -1,4 +1,4 @@
-//wap to print the reverse of a numbeer or a string;
+//wap to print the reverse of a number or a string;
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
